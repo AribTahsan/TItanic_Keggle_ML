@@ -24,3 +24,4 @@ train.csv / test.csv: The raw Kaggle datasets.
 pipeline.py: Contains the data preprocessing steps, the custom Logistic Regression class, the Neural Network architecture, and the Random Forest Grid Search.
 
 submission_*.csv: The generated prediction files formatted and ready for Kaggle scoring.
+The random forest without any changes made performed the best in prediction.
